@@ -1,6 +1,6 @@
 // Grundläggande applikation
 function greetUser(name) {
-	console.log("Hello, " + name);
+	console.log("Greetings, " + name + "! Welcome to the system.")
 }
 
 function calculateTotal(price, tax) {
